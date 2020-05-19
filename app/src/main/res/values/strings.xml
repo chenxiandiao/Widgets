@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProgramLearning</string>
+
+    <string name="sample_title_fragment_pager">behavior</string>
+    <string name="sample_description_fragment_pager">BehaviorActivity</string>
+    <string name="str_all">全部</string>
+</resources>

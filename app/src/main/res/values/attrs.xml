@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CropViewGroup">
+        <attr name="horizontal_divder" format="dimension" />
+        <attr name="right_space_left" format="dimension" />
+    </declare-styleable>
+</resources>

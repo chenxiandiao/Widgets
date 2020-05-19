@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="live_filter_line_color">#dde0e4</color>
+    <color name="row_push_normal">#faffffff</color>
+    <color name="row_push_pressed">#e6e5eb</color>
+
+    <color name="kas_item_red">#ff5959</color>
+    <color name="kas_black">#000000</color>
+    <color name="float_transparent">#00000000</color>
+</resources>
